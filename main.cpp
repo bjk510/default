@@ -1,6 +1,6 @@
 #include <iostream>
-int main(int argc, char const *argv[])
+using namespace std;
+int main()
 {
-	printf("Hello\n");
-	return 0;
+	cout<<"Hello"<<endl;
 }
